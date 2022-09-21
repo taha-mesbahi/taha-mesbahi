@@ -3,14 +3,27 @@
 <!--
 **taha-mesbahi/taha-mesbahi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💫 About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently focused on learning Software, CS. & Data engineering 
+💬 Ask me about Cybersecurity and OSINT
+⚡ Fun fact
+
+🌐 Socials:
+
+Instagram LinkedIn
+
+💻 Tech Stack:
+
+C C++ Java LaTeX Python R Octave JavaScript CSS3 MySQL Adobe After Effects Adobe Lightroom Adobe Photoshop Adobe Premiere Pro Adobe Illustrator  Figma Canva NumPy Raspberry Pi Arduino
+
+📊 GitHub Stats:
+
+
+
+
+
+
+
+✍️ Random Dev Quote
+
